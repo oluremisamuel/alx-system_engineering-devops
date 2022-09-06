@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$ who"
+echo Hello Samuel "$USER"
